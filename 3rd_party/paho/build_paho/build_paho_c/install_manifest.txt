@@ -1,0 +1,28 @@
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/samples/MQTTAsync_publish.c
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/samples/MQTTAsync_publish_time.c
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/samples/MQTTAsync_subscribe.c
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/samples/MQTTClient_publish.c
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/samples/MQTTClient_publish_async.c
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/samples/MQTTClient_subscribe.c
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/samples/paho_c_pub.c
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/samples/paho_c_sub.c
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/samples/paho_cs_pub.c
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/samples/paho_cs_sub.c
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/samples/pubsub_opts.c
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/CONTRIBUTING.md
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/epl-v20
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/edl-v10
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/README.md
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/share/doc/Eclipse Paho C/notice.html
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/../../lib/libpaho-mqtt3c.a
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/../../lib/libpaho-mqtt3a.a
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/../../include/MQTTAsync.h
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/../../include/MQTTClient.h
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/../../include/MQTTClientPersistence.h
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/../../include/MQTTProperties.h
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/../../include/MQTTReasonCodes.h
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/../../include/MQTTSubscribeOpts.h
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/../../include/MQTTExportDeclarations.h
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfig.cmake
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfig-noconfig.cmake
+/home/egoreli/Prog/dust-uv_2021_09_29/external_libs/paho/build_paho/build_paho_c/lib/cmake/eclipse-paho-mqtt-c/eclipse-paho-mqtt-cConfigVersion.cmake

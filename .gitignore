@@ -1,0 +1,4 @@
+/mosquitto
+*/.idea
+*/build
+*/cmake-build-debug

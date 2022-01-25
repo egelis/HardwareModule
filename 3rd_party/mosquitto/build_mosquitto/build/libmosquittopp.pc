@@ -1,0 +1,10 @@
+prefix=/home/egoreli/Prog/HardwareModule/3rd_party/mosquitto/build_mosquitto/build/build
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: mosquittopp
+Description: mosquitto MQTT library (C++ bindings)
+Version: 2.0.0
+Cflags: -I${includedir}
+Libs: -L${libdir} -lmosquittopp

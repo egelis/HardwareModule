@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/egoreli/Prog/HardwareModule/3rd_party/mosquitto/build_mosquitto/mosquitto-2.0.0/include/mosquitto.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+
+/home/egoreli/Prog/HardwareModule/3rd_party/mosquitto/build_mosquitto/mosquitto-2.0.0/lib/cpp/mosquittopp.cpp
+cstdlib
+-
+mosquitto.h
+-
+mosquittopp.h
+-
+
+/home/egoreli/Prog/HardwareModule/3rd_party/mosquitto/build_mosquitto/mosquitto-2.0.0/lib/cpp/mosquittopp.h
+cstdlib
+-
+mosquitto.h
+-
+time.h
+-
+

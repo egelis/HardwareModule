@@ -1,0 +1,7 @@
+#ifndef VERSIONINFO_H
+#define VERSIONINFO_H
+
+#define BUILD_TIMESTAMP "2021-10-01T12:35:08Z"
+#define CLIENT_VERSION  "1.3.7"
+
+#endif /* VERSIONINFO_H */
